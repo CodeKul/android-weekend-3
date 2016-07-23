@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/.idea/modules/inheritance/inheritance.iml" group="inheritance" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inheritance/inheritance_main.iml" filepath="$PROJECT_DIR$/.idea/modules/inheritance/inheritance_main.iml" group="inheritance" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inheritance/inheritance_test.iml" filepath="$PROJECT_DIR$/.idea/modules/inheritance/inheritance_test.iml" group="inheritance" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/language-fundamentals/language-fundamentals.iml" filepath="$PROJECT_DIR$/.idea/modules/language-fundamentals/language-fundamentals.iml" group="language-fundamentals" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/language-fundamentals/language-fundamentals_main.iml" filepath="$PROJECT_DIR$/.idea/modules/language-fundamentals/language-fundamentals_main.iml" group="language-fundamentals" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/language-fundamentals/language-fundamentals_test.iml" filepath="$PROJECT_DIR$/.idea/modules/language-fundamentals/language-fundamentals_test.iml" group="language-fundamentals" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/my-product.iml" filepath="$PROJECT_DIR$/.idea/modules/my-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/my-product_main.iml" filepath="$PROJECT_DIR$/.idea/modules/my-product_main.iml" group="my-product" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/my-product_test.iml" filepath="$PROJECT_DIR$/.idea/modules/my-product_test.iml" group="my-product" />
+    </modules>
+  </component>
+</project>
