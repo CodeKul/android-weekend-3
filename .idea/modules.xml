@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/abstractclass/abstractclass.iml" filepath="$PROJECT_DIR$/.idea/modules/abstractclass/abstractclass.iml" group="abstractclass" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/abstractclass/abstractclass_main.iml" filepath="$PROJECT_DIR$/.idea/modules/abstractclass/abstractclass_main.iml" group="abstractclass" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/abstractclass/abstractclass_test.iml" filepath="$PROJECT_DIR$/.idea/modules/abstractclass/abstractclass_test.iml" group="abstractclass" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/.idea/modules/inheritance/inheritance.iml" group="inheritance" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/inheritance/inheritance_main.iml" filepath="$PROJECT_DIR$/.idea/modules/inheritance/inheritance_main.iml" group="inheritance" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/inheritance/inheritance_test.iml" filepath="$PROJECT_DIR$/.idea/modules/inheritance/inheritance_test.iml" group="inheritance" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/innerclasses/innerclasses.iml" filepath="$PROJECT_DIR$/.idea/modules/innerclasses/innerclasses.iml" group="innerclasses" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/innerclasses/innerclasses_main.iml" filepath="$PROJECT_DIR$/.idea/modules/innerclasses/innerclasses_main.iml" group="innerclasses" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/innerclasses/innerclasses_test.iml" filepath="$PROJECT_DIR$/.idea/modules/innerclasses/innerclasses_test.iml" group="innerclasses" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/.idea/modules/interfaces/interfaces.iml" group="interfaces" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/interfaces/interfaces_main.iml" filepath="$PROJECT_DIR$/.idea/modules/interfaces/interfaces_main.iml" group="interfaces" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/interfaces/interfaces_test.iml" filepath="$PROJECT_DIR$/.idea/modules/interfaces/interfaces_test.iml" group="interfaces" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/language-fundamentals/language-fundamentals.iml" filepath="$PROJECT_DIR$/.idea/modules/language-fundamentals/language-fundamentals.iml" group="language-fundamentals" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/language-fundamentals/language-fundamentals_main.iml" filepath="$PROJECT_DIR$/.idea/modules/language-fundamentals/language-fundamentals_main.iml" group="language-fundamentals" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/language-fundamentals/language-fundamentals_test.iml" filepath="$PROJECT_DIR$/.idea/modules/language-fundamentals/language-fundamentals_test.iml" group="language-fundamentals" />

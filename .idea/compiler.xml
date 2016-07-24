@@ -19,12 +19,18 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="inheritance_main" target="1.5" />
-      <module name="inheritance_test" target="1.5" />
+      <module name="abstractclass_main" target="1.8" />
+      <module name="abstractclass_test" target="1.8" />
+      <module name="inheritance_main" target="1.8" />
+      <module name="inheritance_test" target="1.8" />
+      <module name="innerclasses_main" target="1.5" />
+      <module name="innerclasses_test" target="1.5" />
+      <module name="interfaces_main" target="1.8" />
+      <module name="interfaces_test" target="1.8" />
       <module name="java-brushup_main" target="1.8" />
       <module name="java-brushup_test" target="1.8" />
-      <module name="language-fundamentals_main" target="1.5" />
-      <module name="language-fundamentals_test" target="1.5" />
+      <module name="language-fundamentals_main" target="1.8" />
+      <module name="language-fundamentals_test" target="1.8" />
       <module name="my-product_main" target="1.8" />
       <module name="my-product_test" target="1.8" />
     </bytecodeTargetLevel>
