@@ -21,6 +21,8 @@
     <bytecodeTargetLevel>
       <module name="abstractclass_main" target="1.8" />
       <module name="abstractclass_test" target="1.8" />
+      <module name="exception-handling_main" target="1.8" />
+      <module name="exception-handling_test" target="1.8" />
       <module name="inheritance_main" target="1.8" />
       <module name="inheritance_test" target="1.8" />
       <module name="innerclasses_main" target="1.5" />
@@ -33,6 +35,8 @@
       <module name="language-fundamentals_test" target="1.8" />
       <module name="my-product_main" target="1.8" />
       <module name="my-product_test" target="1.8" />
+      <module name="threading_main" target="1.5" />
+      <module name="threading_test" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

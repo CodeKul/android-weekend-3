@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/abstractclass/abstractclass.iml" filepath="$PROJECT_DIR$/.idea/modules/abstractclass/abstractclass.iml" group="abstractclass" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/abstractclass/abstractclass_main.iml" filepath="$PROJECT_DIR$/.idea/modules/abstractclass/abstractclass_main.iml" group="abstractclass" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/abstractclass/abstractclass_test.iml" filepath="$PROJECT_DIR$/.idea/modules/abstractclass/abstractclass_test.iml" group="abstractclass" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exception-handling/exception-handling.iml" filepath="$PROJECT_DIR$/.idea/modules/exception-handling/exception-handling.iml" group="exception-handling" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exception-handling/exception-handling_main.iml" filepath="$PROJECT_DIR$/.idea/modules/exception-handling/exception-handling_main.iml" group="exception-handling" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exception-handling/exception-handling_test.iml" filepath="$PROJECT_DIR$/.idea/modules/exception-handling/exception-handling_test.iml" group="exception-handling" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/.idea/modules/inheritance/inheritance.iml" group="inheritance" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/inheritance/inheritance_main.iml" filepath="$PROJECT_DIR$/.idea/modules/inheritance/inheritance_main.iml" group="inheritance" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/inheritance/inheritance_test.iml" filepath="$PROJECT_DIR$/.idea/modules/inheritance/inheritance_test.iml" group="inheritance" />
@@ -20,6 +23,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/my-product.iml" filepath="$PROJECT_DIR$/.idea/modules/my-product.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/my-product_main.iml" filepath="$PROJECT_DIR$/.idea/modules/my-product_main.iml" group="my-product" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/my-product_test.iml" filepath="$PROJECT_DIR$/.idea/modules/my-product_test.iml" group="my-product" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/threading/threading.iml" filepath="$PROJECT_DIR$/.idea/modules/threading/threading.iml" group="threading" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/threading/threading_main.iml" filepath="$PROJECT_DIR$/.idea/modules/threading/threading_main.iml" group="threading" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/threading/threading_test.iml" filepath="$PROJECT_DIR$/.idea/modules/threading/threading_test.iml" group="threading" />
     </modules>
   </component>
 </project>
