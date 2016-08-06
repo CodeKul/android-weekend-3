@@ -23,6 +23,8 @@
       <module name="abstractclass_test" target="1.8" />
       <module name="exception-handling_main" target="1.8" />
       <module name="exception-handling_test" target="1.8" />
+      <module name="file-handling_main" target="1.8" />
+      <module name="file-handling_test" target="1.8" />
       <module name="inheritance_main" target="1.8" />
       <module name="inheritance_test" target="1.8" />
       <module name="innerclasses_main" target="1.5" />

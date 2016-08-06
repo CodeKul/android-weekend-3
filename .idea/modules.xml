@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/exception-handling/exception-handling.iml" filepath="$PROJECT_DIR$/.idea/modules/exception-handling/exception-handling.iml" group="exception-handling" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/exception-handling/exception-handling_main.iml" filepath="$PROJECT_DIR$/.idea/modules/exception-handling/exception-handling_main.iml" group="exception-handling" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/exception-handling/exception-handling_test.iml" filepath="$PROJECT_DIR$/.idea/modules/exception-handling/exception-handling_test.iml" group="exception-handling" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/file-handling/file-handling.iml" filepath="$PROJECT_DIR$/.idea/modules/file-handling/file-handling.iml" group="file-handling" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/file-handling/file-handling_main.iml" filepath="$PROJECT_DIR$/.idea/modules/file-handling/file-handling_main.iml" group="file-handling" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/file-handling/file-handling_test.iml" filepath="$PROJECT_DIR$/.idea/modules/file-handling/file-handling_test.iml" group="file-handling" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/.idea/modules/inheritance/inheritance.iml" group="inheritance" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/inheritance/inheritance_main.iml" filepath="$PROJECT_DIR$/.idea/modules/inheritance/inheritance_main.iml" group="inheritance" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/inheritance/inheritance_test.iml" filepath="$PROJECT_DIR$/.idea/modules/inheritance/inheritance_test.iml" group="inheritance" />
